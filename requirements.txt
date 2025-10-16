@@ -1,0 +1,8 @@
+openai
+streamlit
+chonkie
+chonkie[hub]
+python-dotenv
+rank_bm25
+tiktoken
+faiss-cpu
