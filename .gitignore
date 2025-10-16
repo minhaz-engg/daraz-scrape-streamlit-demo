@@ -140,6 +140,9 @@ celerybeat.pid
 .venv
 env/
 venv/
+sigenv/
+.emb_cache.pkl
+
 ENV/
 env.bak/
 venv.bak/
