@@ -1,8 +1,8 @@
-streamlit>=1.37.0
-openai>=1.44.0
-beautifulsoup4>=4.12.3
-lxml>=5.2.2
-crawl4ai>=0.3.13
-nest_asyncio>=1.6.0
+streamlit>=1.30
+openai>=1.40
 rank-bm25>=0.2.2
+chonkie>=0.3.1
+crawl4ai>=0.4.7
+beautifulsoup4>=4.12
 python-dotenv>=1.0.1
+playwright>=1.48
